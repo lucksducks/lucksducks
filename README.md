@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lucksducks, art director of Sangria SMP, a brazilian SMP MMORPG server.
+- 👋 Hi, I’m lucksducks, art director of Sangria SMP, a brazilian SMP/RPG server.
 - I’m currently developing datapacks, resource packs and Custom Items Plugin for the server.
 
 - Discord > @lucksducks
